@@ -25,10 +25,6 @@ footer{
     flex-direction: column;
 }
 
-.canvas {
-height: 20rem; 
-}
-
 footer .social_icon,
 footer .menue {
     position: relative;
