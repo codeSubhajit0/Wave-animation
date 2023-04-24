@@ -15,7 +15,6 @@ body{
 }
 footer{
     position: relative;
-    min-height: 100vh;
     width: 100%;
     background: #00A0FA;
     min-height: 100px;
